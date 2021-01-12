@@ -8,4 +8,10 @@
 
 ## Models
 
+- [Filament Cleaner](https://www.thingiverse.com/thing:2440593)
 - [Filament dust filter with 4x2mm magnets](https://www.thingiverse.com/thing:4670986)
+
+## Materials
+
+- PLA
+- ABS
